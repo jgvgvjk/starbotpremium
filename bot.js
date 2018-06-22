@@ -14,7 +14,7 @@ client.on("message", message => {
       .setColor("#ffff00")
       .setThumbnail(message.author.avatarURL)
       .setDescription(`
-***Welcome To Super Star-Bot Help_***
+***Welcome To Star-Bot Help_***
 ***
 لاوامر الخاصة بالبوت
 ملاحضة***
