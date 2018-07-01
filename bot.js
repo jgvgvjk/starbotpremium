@@ -76,7 +76,6 @@ f!color / لي تغير لونك』
 !لعبه اسئله / كت تويت』
 **
 ***Join Bot Server GiveAways Today***
-** https://discord.gg/xJ57bXY **
    
         
 `)
